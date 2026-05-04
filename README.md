@@ -42,7 +42,7 @@ Login (demo account)
 Email: demo@securepay.com
 Password: password123
 
-Usage
+Usage.
 
 Dashboard - View balance, live settlement feed, and recent activity
 Transactions - Authorize new international payments
